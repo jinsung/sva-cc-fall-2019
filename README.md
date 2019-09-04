@@ -13,10 +13,9 @@
 - [Learning Processing](http://learningprocessing.com/)
 
 ## Grading
-* Attendance - 30%
-* Homeworks - 10%
-* Assignment #1 - 10%
-* Assignment #2 - 20%
+* Attendance and class participation - 30%
+* Assignments - 20%
+* Midterm Project - 20%
 * Final - 30%
 
 ## Tools
