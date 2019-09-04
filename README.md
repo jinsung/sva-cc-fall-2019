@@ -12,7 +12,7 @@
 - [The Coding Train - Shiffman's p5.js tutorials](https://www.youtube.com/user/shiffman/playlists)
 - [Learning Processing](http://learningprocessing.com/)
 
-## Grading
+## COURSE REQUIREMENTS
 * Attendance and class participation - 30%
 * Assignments - 20%
 * Midterm Project - 20%
@@ -45,7 +45,7 @@
 
 ### Week 5 -- Nested Loop
 
-### Week 6 -- 2D Transformation / Function / Clocks - Assignment 1 due date
+### Week 6 -- 2D Transformation / Function / Clocks 
 
 ### Week 7 -- Object
 
@@ -53,7 +53,7 @@
 
 ### Week 9 -- Array 2
 
-### Week 10 -- Objects in Array - Assignment 2 due date
+### Week 10 -- Objects in Array - Midterm Assignment Due
 
 ### Week 11 -- Image
 
