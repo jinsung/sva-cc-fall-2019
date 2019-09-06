@@ -24,13 +24,13 @@
 ## SYLLABUS
 
 ### Week 1 -- Introduction
+  * Hello
+    * [Works](https://vimeo.com/136505838)
   * What is computer programming and why?
   * Reference works
     * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
     * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
-  * About me.
-    * [Works](https://vimeo.com/136505838)
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
   * [Editor](https://editor.p5js.org/)
