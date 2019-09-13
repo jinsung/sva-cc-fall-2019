@@ -56,6 +56,8 @@
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
   * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
   * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
+  * Comment
+  * Console.log!
 
 ### Week 3 -- Bouncing Ball!
 
