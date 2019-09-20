@@ -75,6 +75,11 @@
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
+ * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
+ * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
+ * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
+ * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
+ * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
 
