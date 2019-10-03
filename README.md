@@ -82,8 +82,30 @@
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
+ * Yumi!
+ * Random Presenter Picker
+ * Zach Lieberman
+    * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
+    * [IQ Font](https://vimeo.com/5233789)
+    * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
+    * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+ * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
-### Week 6 -- 2D Transformation / Function / Clocks 
+### Week 6 -- 2D Transformation / Function
+ * Daito Manabe
+    * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
+    * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
+    * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
+    * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
+ * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
+    * Radians & Degrees
+    * Translate / Rotate / Scale
+    * Push / Pop
+ * Function
+    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
+    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
 
 ### Week 7 -- Object
 
