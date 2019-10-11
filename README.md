@@ -83,7 +83,7 @@
 
 ### Week 5 -- Nested Loop
  * Yumi!
- * Random Presenter Picker
+ * [Random Presenter Picker](https://editor.p5js.org/jinsung/sketches/16fGAon8n)
  * Zach Lieberman
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
@@ -94,6 +94,7 @@
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
 ### Week 6 -- 2D Transformation / Function
+ * So Hee, Chaiun, So Jeong
  * Daito Manabe
     * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
