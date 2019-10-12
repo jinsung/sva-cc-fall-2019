@@ -112,7 +112,6 @@
  * Euijoon, Tianying and Eugene
  * [three.js](https://threejs.org/)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
- * [Clock2](https://editor.p5js.org/jinsung/sketches/CM_7_WPrB)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
 
 ### Week 8 -- Array
