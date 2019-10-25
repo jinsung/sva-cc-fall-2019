@@ -109,7 +109,7 @@
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
 
 ### Week 7 -- Function, Clock, and Object
- * Euijoon, Tianying and Eugene
+ * Tianying and Eugene
  * [three.js](https://threejs.org/)
  * Function
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
@@ -117,6 +117,7 @@
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
 
 ### Week 8 -- Object and Array
+ * Euijoon, Yulin
  * [DIA Studio](http://dia.tv/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
