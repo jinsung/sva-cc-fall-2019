@@ -114,14 +114,13 @@
  * Function
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
- * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
 
 ### Week 8 -- Object and Array
  * Euijoon, Yulin
  * [DIA Studio](http://dia.tv/)
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
- * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
 
