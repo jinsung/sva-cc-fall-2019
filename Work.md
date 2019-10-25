@@ -61,6 +61,7 @@
 * [Homework #1](https://editor.p5js.org/kwwsy/sketches/SRsN_V7Aa)
 * [Homework #2 - 1](https://editor.p5js.org/kwwsy/sketches/dHzOVm-hP)
 * [Homework #2 - 2](https://editor.p5js.org/kwwsy/sketches/mU3RawzqO)
+* [Homework #3](https://editor.p5js.org/kwwsy/sketches/FvH9Ehuoh)
 ### Yaxi Xiao
 * [Homework #1](https://editor.p5js.org/yaxitaptap/sketches/3ZP1b8ZYX)
 * [Homework #2 - 1](https://editor.p5js.org/yaxitaptap/sketches/dy0X_pM28C)
