@@ -35,7 +35,8 @@
 * [Homework #1](https://editor.p5js.org/tylyu/sketches/TdJoCsPqx)
 * [Homework #2 - 1](https://editor.p5js.org/tylyu/sketches/CDpSMroDl)
 * [Homework #2 - 2](https://editor.p5js.org/tylyu/sketches/JVFXvTSw4)
-* [Homework #3](https://editor.p5js.org/tylyu/sketches/jaV2J90ew)
+* [Homework #3-1](https://editor.p5js.org/tylyu/sketches/jaV2J90ew)
+* [Homework #3-2](https://editor.p5js.org/tylyu/sketches/Ko8KBV3p9b)
 ### Chaiun Oh
 * [Homework #1](https://editor.p5js.org/cherry971020/sketches/QVBRr64K5)
 * [Homework #2 - 1](https://editor.p5js.org/cherry971020/sketches/tb-4i7tJD)
