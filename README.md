@@ -116,7 +116,7 @@
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
 
 ### Week 8 -- Object and Array
- * Euijoon, Yulin
+ * Euijoon, Yulin, Noreen
  * [DIA Studio](http://dia.tv/)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
