@@ -125,6 +125,7 @@
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
 
 ### Week 9 -- Array 2
+ * Suk Kyue, Seoyeon, Hee Won
 
 ### Week 10 -- Objects in Array - Midterm Assignment Due
 
