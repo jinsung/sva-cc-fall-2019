@@ -121,13 +121,22 @@
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
- * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
- * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
 
-### Week 9 -- Array 2
+### Week 9 -- Objects in Array
  * Suk Kyue, Seoyeon, Hee Won
+ * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
+ * Yugo Nakamuara
+   * [Clock](https://www.youtube.com/watch?v=23MB0L67MIo)
+   * [DotClock](https://www.youtube.com/watch?v=u8pQ7gY44mM)
+ * [John maeda clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+ * [THA LTD.](http://tha.jp/works/)
+ * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+ * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
+ * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
+ * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
 
-### Week 10 -- Objects in Array - Midterm Assignment Due
+### Week 10 -- Letter Animation Due
+ * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
 
 ### Week 11 -- Image
 
