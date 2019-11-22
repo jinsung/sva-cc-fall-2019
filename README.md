@@ -148,6 +148,12 @@
  * [With Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
 
 ### Week 12 -- Vector / Force
+ * Vector (Class)
+  * Vector vs Point
+  * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
+ * [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
+ * Gravity
+ * Friction
 
 ### Week 13 -- Particle System
 
