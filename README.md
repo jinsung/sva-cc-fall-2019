@@ -148,6 +148,7 @@
  * [With Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
 
 ### Week 12 -- Vector / Force
+ * [WWDC-Designing Fluid Interfaces 28:00](https://www.youtube.com/watch?v=gttSJA-kDmQ)
  * Vector (Class)
   * Vector vs Point
   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
