@@ -11,7 +11,7 @@
 * [Homework #2 - 1](https://editor.p5js.org/Ketsurosu/sketches/_AnTWN8gj)
 * [Homework #3](https://editor.p5js.org/Ketsurosu/sketches/pX9w8XCfs)
 * [Midterm](https://editor.p5js.org/Ketsurosu/sketches/2UWxT8I-F)
-* [Final)(https://editor.p5js.org/Ketsurosu/sketches/WU0XHk5CS)
+* [Final](https://editor.p5js.org/Ketsurosu/sketches/WU0XHk5CS)
 ### Suk Kyue Han
 * [Homework #1](https://editor.p5js.org/shan33/sketches/vcSatH6Rw)
 * [Homework #2 - 1](https://editor.p5js.org/shan33/sketches/B_GtjWCIg)
