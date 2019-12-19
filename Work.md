@@ -24,6 +24,7 @@
 * [Homework #2 - 2](https://editor.p5js.org/nono_code/sketches/x8o-vUxOX)
 * [Homework #3](https://editor.p5js.org/nono_code/sketches/S6_vv1DPx)
 * [Midterm](https://editor.p5js.org/nono_code/sketches/mXB7mMp0U)
+* [Final](https://editor.p5js.org/nono_code/sketches/GWkzmlRld)
 ### Hee Won Kim 
 * [Homework #1](https://editor.p5js.org/hkim220@sva.edu/sketches/QhVpdtS-T)
 * [Homework #2 - 1](https://editor.p5js.org/hkim220@sva.edu/sketches/x2h0472bz)
@@ -36,6 +37,7 @@
 * [Homework #1](https://editor.p5js.org/ejk940513/sketches/igMPlSI9Z)
 * [Homework #2 - 1](https://editor.p5js.org/ejk940513/sketches/xQ-bmB_EP)
 * [Homework #2 - 2](https://editor.p5js.org/ejk940513/sketches/o0YOLIPU3)
+* [Homework #3](https://editor.p5js.org/ejk940513/sketches/2iZBDUICT)
 * [Midterm](https://editor.p5js.org/ejk940513/sketches/-hcoL-kdb)
 * [Final](https://editor.p5js.org/ejk940513/sketches/zIOyIGHKO)
 ### So Hee Koh
